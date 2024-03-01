@@ -9,6 +9,7 @@ plotly
 pymysql
 streamlit-tags
 Pillow
+pytube==15.0.0
 youtube-dl
 nltk
 pdfminer3
