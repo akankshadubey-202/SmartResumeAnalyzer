@@ -61,3 +61,21 @@ interview_videos = ['https://youtu.be/Ji46s5BHdr0','https://youtu.be/seVxXHi2YMs
                     'https://youtu.be/9FgfsLa_SmY','https://youtu.be/2HQmjLu-6RQ',
                     'https://youtu.be/DQd_AlIvHUw','https://youtu.be/oVVdezJ0e7w'
                     'https://youtu.be/JZK1MZwUyUU','https://youtu.be/CyXLhHQS3KY']
+
+job_recommendations = {
+    'Data Science': [['Data Scientist', 'https://www.example.com/data_scientist_job1'], 
+                     ['Machine Learning Engineer', 'https://www.example.com/ml_engineer_job1'],
+                     ['Data Analyst', 'https://www.example.com/data_analyst_job1']],
+    'Web Development': [['Web Developer', 'https://www.example.com/web_dev_job1'],
+                        ['Frontend Developer', 'https://www.example.com/frontend_dev_job1'],
+                        ['Backend Developer', 'https://www.example.com/backend_dev_job1']],
+    'Android Development': [['Android Developer', 'https://www.example.com/android_dev_job1'],
+                            ['Mobile App Developer', 'https://www.example.com/mobile_dev_job1'],
+                            ['Flutter Developer', 'https://www.example.com/flutter_dev_job1']],
+    'IOS Development': [['iOS Developer', 'https://www.example.com/ios_dev_job1'],
+                        ['Mobile App Developer', 'https://www.example.com/mobile_dev_job1'],
+                        ['Swift Developer', 'https://www.example.com/swift_dev_job1']],
+    'UI/UX Design': [['UI/UX Designer', 'https://www.example.com/ui_ux_designer_job1'],
+                     ['UI Designer', 'https://www.example.com/ui_designer_job1'],
+                     ['UX Designer', 'https://www.example.com/ux_designer_job1']]
+}
