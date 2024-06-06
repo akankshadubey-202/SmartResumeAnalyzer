@@ -115,7 +115,7 @@ def run():
 
     with st.container():
         st.title("What does your Resume have to Say about you?")
-        left_column,right_column,third_col=st.columns([0.1,0.3,0.3])
+        left_column,right_column,third_col=st.columns([0.4,0.3,0.3])
         with left_column:
             if save_image_path:  # Check if save_image_path is not None
                 show_pdf(save_image_path)
