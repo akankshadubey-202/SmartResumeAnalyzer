@@ -64,18 +64,18 @@ interview_videos = ['https://youtu.be/Ji46s5BHdr0','https://youtu.be/seVxXHi2YMs
 
 job_recommendations = {
     'Data Science': [['Data Scientist', 'https://www.example.com/data_scientist_job1'], 
-                     ['Machine Learning Engineer', 'https://www.example.com/ml_engineer_job1'],
-                     ['Data Analyst', 'https://www.example.com/data_analyst_job1']],
-    'Web Development': [['Web Developer', 'https://www.example.com/web_dev_job1'],
-                        ['Frontend Developer', 'https://www.example.com/frontend_dev_job1'],
-                        ['Backend Developer', 'https://www.example.com/backend_dev_job1']],
-    'Android Development': [['Android Developer', 'https://www.example.com/android_dev_job1'],
-                            ['Mobile App Developer', 'https://www.example.com/mobile_dev_job1'],
-                            ['Flutter Developer', 'https://www.example.com/flutter_dev_job1']],
-    'IOS Development': [['iOS Developer', 'https://www.example.com/ios_dev_job1'],
-                        ['Mobile App Developer', 'https://www.example.com/mobile_dev_job1'],
-                        ['Swift Developer', 'https://www.example.com/swift_dev_job1']],
-    'UI/UX Design': [['UI/UX Designer', 'https://www.example.com/ui_ux_designer_job1'],
-                     ['UI Designer', 'https://www.example.com/ui_designer_job1'],
-                     ['UX Designer', 'https://www.example.com/ux_designer_job1']]
+                     ['Machine Learning Engineer', 'https://www.foundit.in/job/machine-learning-engineer-remote-uplers-dehradun-29088243?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic'],
+                     ['Data Analyst', 'https://www.foundit.in/job/data-science-ml-tata-consultancy-services-ltd-chennai-india-30317530?searchId=4c47738c-6e01-4f12-aea2-5b674ca2a09a']],
+    'Web Development': [['Web Developer', 'https://www.linkedin.com/jobs/view/react-js-developer-at-ftechiz-solutions-pvt-ltd-3656594798/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=in'],
+                        ['Frontend Developer', 'https://in.indeed.com/q-front-end-developer-fresher-jobs.html?vjk=ff998301ed3d6e9e'],
+                        ['Backend Developer', 'https://www.naukri.com/backend-developer-jobs?experience=0']],
+    'Android Development': [['Android Developer', 'https://www.naukri.com/android-developer-fresher-jobs?experience=0'],
+                            ['Mobile App Developer', 'https://www.naukri.com/fresher-mobile-app-developer-jobs?experience=0'],
+                            ['Flutter Developer', 'https://in.indeed.com/q-flutter-developer-jobs.html?vjk=2fc03791ecce3a3e']],
+    'IOS Development': [['iOS Developer', 'https://www.naukri.com/ios-developer-jobs?k=ios%20developer&nignbevent_src=jobsearchDeskGNB&experience=0'],
+                        ['Mobile App Developer', 'https://www.naukri.com/fresher-mobile-app-developer-jobs?experience=0'],
+                        ['Swift Developer', 'https://www.naukri.com/swift-developer-jobs?k=swift%20developer&experience=0&nignbevent_src=jobsearchDeskGNB']],
+    'UI/UX Design': [['UI/UX Designer', 'https://www.naukri.com/ux-ui-designer-jobs?k=ux%2Fui%20designer&experience=0&nignbevent_src=jobsearchDeskGNB'],
+                     ['UI Designer', 'https://www.naukri.com/ui-designer-jobs?k=ui%20designer&experience=0&nignbevent_src=jobsearchDeskGNB'],
+                     ['UX Designer', 'https://www.naukri.com/ux-designer-jobs?k=ux%20designer&experience=0&nignbevent_src=jobsearchDeskGNB']]
 }
